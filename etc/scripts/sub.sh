@@ -21,5 +21,4 @@ function sub() {
     echo "Subscription and logging completed."
 }
 
- sub /drone/pose logging.cvs
-
+sub
